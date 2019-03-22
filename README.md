@@ -1,4 +1,4 @@
-# ElJuegoMasDificilDelmundo
+# ElJuegoMasDificilDelCurso
 Un juego muy difícil para desafiar a cualquier persona creado en java.
 solo tienen un nivel pero pueden ser implementados mas.
 
